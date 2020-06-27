@@ -1,5 +1,19 @@
-#element1, #element2 {
+/*#element1, #element2 {
 	width: 100px;
 	height:100px;
 	border: solid 1px black;
+}*/
+* {
+	box-sizing: border-box;
 }
+
+#text {
+	width: 400px;
+	border: 1px solid black;
+	align-items: center;
+}
+
+#expand {
+	width: 398px;
+}
+

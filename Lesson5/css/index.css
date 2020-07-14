@@ -1,0 +1,32 @@
+* {
+	box-sizing: border-box;
+}
+
+.pens {
+	display: flex;
+	margin: 20px;
+	flex-wrap: wrap; 
+	flex-direction: row;
+}
+
+.pen {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+	width: 500px;
+}
+
+img {
+	width: 470px;
+}
+
+
+.lpens {
+	display: flex;
+	flex-direction: row;
+}
+
+.lpen {
+	
+}
